@@ -1,10 +1,9 @@
 {
   "name": "language-cocor",
   "main": "./lib/language-cocor",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Adds Coco/R syntax highlighting to Atom.",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "language-cocor:toggle"
   },
@@ -13,6 +12,5 @@
   "engines": {
     "atom": ">=0.174.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
